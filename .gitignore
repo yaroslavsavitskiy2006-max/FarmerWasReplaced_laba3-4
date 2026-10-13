@@ -1,0 +1,7 @@
+# IDE
+.idea/
+*.iml
+
+# OS
+Thumbs.db
+desktop.ini
